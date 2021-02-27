@@ -8,7 +8,7 @@
 **2.**I plan to change my field of activity.
 I would really like to be a part of the IT community.
 
-**3.** I have a bit of knowledge: HTML, CSS, Git
+**3.** I have a bit of knowledge: HTML, CSS, Git.
 
 **5.**
 ```
