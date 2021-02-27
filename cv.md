@@ -5,7 +5,7 @@
 **Email:** antonio8845@gmail.com
 
 
-**2.**I plan to change my field of activity.
+**2.** I plan to change my field of activity.
 I would really like to be a part of the IT community.
 
 **3.** I have a bit of knowledge: HTML, CSS, Git.
