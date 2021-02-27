@@ -24,6 +24,6 @@ _Можно **вставлять** один тип в другой_
 ```
 **6.**
 
-**7.** i' studied in school, from 1999 to 2010. HTML courses on Algoitmika bootcamp, git courses on geekbrains.
+**7.** I studied in school, from 1999 to 2010. HTML courses on Algoitmika bootcamp, git courses on geekbrains.
 
 **8.** my level of English is Pre-Intermediate.
